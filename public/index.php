@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Eat Under | Food to Fit your budget</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="./css/main.css" media="screen" title="no title" charset="utf-8">
     <link rel="icon" type="image/png" href="https://s3-ap-southeast-2.amazonaws.com/eatunderassets/favicon.png">
 </head>
